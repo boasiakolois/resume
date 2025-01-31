@@ -1,5 +1,6 @@
 # resume
 Lois Boasiako
+
 LinkedIn | 718-300-4891 | boasiakolois@gmail.com | GitHub | Brooklyn, NY
 # Skills
  Javascript, Java, CSS, Database Management Systems, SQL, MySQL, HTML, Object Oriented Programming, Website
