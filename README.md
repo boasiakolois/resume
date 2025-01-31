@@ -1,17 +1,24 @@
-# resume
-Lois Boasiako
+# Lois Boasiako's Resume
 
-LinkedIn | 718-300-4891 | boasiakolois@gmail.com | GitHub | Brooklyn, NY
+www.linkedin.com/in/lois-boasiako-099373248 | 718-300-4891 | boasiakolois@gmail.com  | Brooklyn, NY
 # Skills
- Javascript, Java, CSS, Database Management Systems, SQL, MySQL, HTML, Object Oriented Programming, Website
+
+Javascript, Java, CSS, Database Management Systems, SQL, MySQL, HTML, Object Oriented Programming, Website
 Development, IntelliJ, Full-Stack Web Development, Front End, Back End, Office Suite, GitHub, User Experience
 Design, Python
-# Education  
-Information Science, B.A Oswego State University of New York August 2022 - Expected May 2026
 
- Coursework: Data Structures and Algorithms, Principles of Programming Software Design, Multi/Hypermedia Design, Systems
+# Education  
+Information Science, B.A Oswego State University of New York 
+
+August 2022 - Expected May 2026
+
+Coursework: Data Structures and Algorithms, Principles of Programming Software Design, Multi/Hypermedia Design, Systems
 Programming, Database Management, Programming Languages, Statistics in the Sciences
-Software Engineering Certification TripleTen Dec 2024 - August 2025
+
+Software Engineering Certification 
+
+TripleTen Dec 2024 - August 2025
+
 # Experience 
 Mentor SUNY Oswego CSTEP August 2022 – Present
 - Provided one-on-one tutoring to students who needed additional help with coursework.
